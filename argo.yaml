@@ -1,7 +1,7 @@
 apiVersion: argoproj.io/v1alpha1
 kind: Application
 metadata:
-  name: argo-argo-yaml
+  name: argo-argo-laur
 spec:
   project: default
   source: 
