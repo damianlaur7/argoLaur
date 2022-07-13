@@ -10,7 +10,7 @@ spec:
     path: postgres
   destination:
     server: https://kubernetes.default.svc
-    namespace: argoLaur
+    namespace: argolaur
   syncPolicy:
     syncOptions:
       - CreateNamespace=true
